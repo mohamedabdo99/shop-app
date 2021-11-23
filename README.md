@@ -16,5 +16,5 @@ dart & bloc & clean architecture & API (Dio) & onBoarding & sharedPreferences
 
 ![WhatsApp Image 2021-11-23 at 1 33 48 PM (3)](https://user-images.githubusercontent.com/67502781/143017417-edc3cd63-5b7c-4e45-83f3-9c4ea4950553.jpeg)
 
-![Uploading WhatsApp Image 2021-11-23 at 1.33.48 PM (4).jpeg…]()
 
+![WhatsApp Image 2021-11-23 at 1 33 48 PM (4)](https://user-images.githubusercontent.com/67502781/143017666-6b6c8290-0d9a-414d-a791-8000f5bd4e41.jpeg)
